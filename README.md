@@ -27,7 +27,7 @@ Me chamo João Victor Batista de Oliveira, tenho 21 anos, fiz curso técnico em 
 
 ##
 
-### `PRETENÇÃO DE ESTUDO`
+### `PRETENÇÃO DE ESTUDO:`
 <div>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:55px; height:45px;"/>
