@@ -1,7 +1,7 @@
 # João Victor Batista // `Full Stack`
 
 ### `SOBRE MIM:`
-Me chamo João Victor Batista de Oliveira, tenho 21 anos, fiz curso técnico em informática no IFRN no campus Parnamirim e sou natural de Natal/RN. Meu objetivo é ser programador full stack e estou sempre buscando novos conhecimentos. Procuro uma primeira oportunidade na área para poder aperfeiçoar meus conhecimentos e acumular experiências.
+Me chamo João Victor Batista de Oliveira, tenho 21 anos, fiz curso técnico em informática no IFRN no campus Parnamirim, curso Sistemas para Internet (TSI) no IFRN campus Zona leste e sou natural de Natal/RN. Meu objetivo é ser programador full stack e estou sempre buscando novos conhecimentos. Procuro uma primeira oportunidade na área para poder aperfeiçoar meus conhecimentos e acumular experiências.
 ##
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img 
